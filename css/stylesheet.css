@@ -2,5 +2,26 @@ body
 {
     background-color: black;
     margin: 0px;
-    
+    padding: 0%;
+  
+
 }
+
+a
+{
+    text-decoration: none;
+}
+
+ul
+{
+list-style: none;
+}
+nav
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    z-index: 1;
+}
+
